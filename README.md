@@ -1,4 +1,4 @@
-![ssk044 — AI Engineer, Backend Developer, Researcher](assets/hero.svg)
+![ssk044 — AI Engineer, Backend Developer, Researcher](hero.svg)
 
 # ssk044
 
@@ -12,7 +12,7 @@ AI engineering · backend development · research
 
 ## Selected work
 
-![Custom cards for EDITH, LLM Compiler Optimizer, Internship Intelligence, MISA, and Multi-Agent Civilization](assets/projects.svg)
+![Custom cards for EDITH, LLM Compiler Optimizer, Internship Intelligence, MISA, and Multi-Agent Civilization](projects.svg)
 
 - **EDITH**
 - **LLM Compiler Optimizer**
@@ -22,7 +22,7 @@ AI engineering · backend development · research
 
 ## Technical skills
 
-![AI engineering, backend development, and research](assets/skills.svg)
+![AI engineering, backend development, and research](skills.svg)
 
 - AI Engineering
 - Backend Development
@@ -30,7 +30,7 @@ AI engineering · backend development · research
 
 ## Research
 
-![Research showcase](assets/research.svg)
+![Research showcase](research.svg)
 
 Research is part of my work. Verified publications and details will be added here when available.
 
@@ -38,4 +38,4 @@ Research is part of my work. Verified publications and details will be added her
 
 [GitHub — ssk044](https://github.com/ssk044)
 
-![ssk044 footer](assets/footer.svg)
+![ssk044 footer](footer.svg)
