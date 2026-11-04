@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="ssk044 — AI Engineer, Backend Developer, Researcher" width="100%" />
+  <img src="profile-banner.svg" alt="ssk044 — AI Engineer, Backend Developer, Researcher" width="100%" />
 </p>
 
 <h1 align="center">ssk044</h1>
@@ -10,7 +10,7 @@
 
 <p align="center"><a href="https://github.com/ssk044">GitHub profile</a></p>
 
-<p align="center"><img src="assets/section-rule.svg" alt="" width="100%" /></p>
+<p align="center"><img src="section-rule.svg" alt="" width="100%" /></p>
 
 ## Selected work
 
