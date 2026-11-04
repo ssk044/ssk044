@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="profile-banner.svg" alt="ssk044 — AI Engineer, Backend Developer, Researcher" width="100%" />
-</p>
+![ssk044 — AI Engineer, Backend Developer, Researcher](assets/hero.svg)
 
-<h1 align="center">ssk044</h1>
+# ssk044
 
-<p align="center"><strong>AI Engineer&nbsp; | &nbsp;Backend Developer&nbsp; | &nbsp;Researcher</strong></p>
+**AI Engineer | Backend Developer | Researcher**
 
-<p align="center">AI engineering · backend systems · research</p>
+AI engineering · backend development · research
 
-<p align="center"><a href="https://github.com/ssk044">GitHub profile</a></p>
+[GitHub profile](https://github.com/ssk044)
 
-<p align="center"><img src="section-rule.svg" alt="" width="100%" /></p>
+---
 
 ## Selected work
+
+![Custom cards for EDITH, LLM Compiler Optimizer, Internship Intelligence, MISA, and Multi-Agent Civilization](assets/projects.svg)
 
 - **EDITH**
 - **LLM Compiler Optimizer**
@@ -20,12 +20,22 @@
 - **MISA**
 - **Multi-Agent Civilization**
 
+## Technical skills
+
+![AI engineering, backend development, and research](assets/skills.svg)
+
+- AI Engineering
+- Backend Development
+- Research
+
 ## Research
 
-Research is part of my work. Publication details and research topics will be added here when ready.
+![Research showcase](assets/research.svg)
+
+Research is part of my work. Verified publications and details will be added here when available.
 
 ## Connect
 
-- [GitHub](https://github.com/ssk044)
+[GitHub — ssk044](https://github.com/ssk044)
 
-<p align="center"><sub>Static artwork · Stored with this profile</sub></p>
+![ssk044 footer](assets/footer.svg)
